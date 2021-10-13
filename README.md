@@ -1,18 +1,4 @@
-\documentclass{article}
-\usepackage{graphicx}
-\usepackage[utf8]{inputenc}
-\usepackage{hyperref} % Hipervínculos
-\usepackage{graphicx}
-
-\title{Parcial 5}
-\author{Juan Felipe Corrales Toro\\
-$1001686376$}
-\date{}
-
-\begin{document}
-
-\maketitle
-\section{Punto 89}
+Punto 89}
 Deseamos saber si el numero x es al azar es perfecto
 entonces el codigo funciona buscando los divisores del numero , y si la suma de sus divisores es igual a  al valor x entonces es perfecto 
 
