@@ -44,5 +44,5 @@ def libre_cuadrados(n):
     print('P(z libre)=', c/n)
 
 
-for n in range(2,1000,1):
+for n in range(2,500,1):
     print(libre_cuadrados(n))
